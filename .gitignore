@@ -1,0 +1,8 @@
+# 로컬에 쌓이는 데이터/캐시 파일은 저장소에 포함하지 않습니다.
+data/
+*.db
+__pycache__/
+*.pyc
+.venv/
+venv/
+debug_page.html
